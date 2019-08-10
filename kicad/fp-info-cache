@@ -1,4 +1,4 @@
-15803692095585362
+15806822552328437
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -64819,6 +64819,13 @@ rotary encoder
 0
 5
 4
+SDR0805
+SDR0805-220ML
+
+
+0
+2
+2
 Sensor_Audio
 Infineon_PG-LLGA-5-1
 Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/
@@ -69726,6 +69733,13 @@ test point THT pad
 0
 1
 1
+TPS61087-02
+TPS61087-02
+
+
+0
+15
+11
 TPS61087DSCR
 TPS61087DSCR
 
