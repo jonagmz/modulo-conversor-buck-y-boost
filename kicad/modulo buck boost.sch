@@ -218,8 +218,6 @@ F 3 "" H 3750 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3750 4000 3750 4100
-Wire Wire Line
 	4450 4100 4200 4100
 Connection ~ 3750 4100
 Connection ~ 4200 4100
@@ -548,4 +546,17 @@ Wire Wire Line
 	8050 2400 8050 2350
 Text Label 8100 2400 0    50   ~ 0
 SW
+Wire Wire Line
+	3750 4000 3750 4100
+$Comp
+L MCU_Microchip_ATmega:ATmega328-AU U?
+U 1 1 5D4F2FCB
+P 1900 5000
+F 0 "U?" H 1900 3411 50  0000 C CNN
+F 1 "ATmega328-AU" H 1900 3320 50  0000 C CNN
+F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 1900 5000 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf" H 1900 5000 50  0001 C CNN
+	1    1900 5000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
